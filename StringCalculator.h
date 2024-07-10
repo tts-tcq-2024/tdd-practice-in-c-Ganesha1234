@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <ctype.h>  
+//#include <stdio.h>
+//#include <ctype.h>  
 
 // Function to calculate sum of digits in a string
 int sum_of_digits(const char *str) {
